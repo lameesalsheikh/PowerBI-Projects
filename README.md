@@ -24,9 +24,10 @@ This Power BI dashboard provides a comprehensive analysis of personal loans that
 5. **Variance per Month**
    - Line chart showing the variance in the number of loans and loan balances across months.
    - Highlights significant changes and trends in loan processing over the first half of the year.
+![Dashboard Image 1](https://github.com/lameesalsheikh/PowerBI-Projects/blob/main/main2.jpg)
 
 ### Work Load Distribution Page
-
+![Dashboard Image 1](https://github.com/lameesalsheikh/PowerBI-Projects/blob/main/distribution_balance.png)
 1. **Approval Committees**
    - Bar chart showing the distribution of loan approvals by different committees.
    - Displays the total balance of loans approved by each committee.
@@ -42,6 +43,7 @@ This Power BI dashboard provides a comprehensive analysis of personal loans that
 4. **Loan Status by Employee**
    - Flow chart showing the distribution of loan statuses by individual employees.
    - Provides detailed insights into each employee's performance in terms of loan processing.
+     ![Dashboard Image 1](https://github.com/lameesalsheikh/PowerBI-Projects/blob/main/distribution_count.png)
 
 ### Key Features
 
