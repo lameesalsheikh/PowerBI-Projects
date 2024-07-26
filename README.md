@@ -7,6 +7,7 @@ This Power BI dashboard provides a comprehensive analysis of personal loans that
 1. **Total Loans**
    - Displays the total number and balance of personal loans processed until June 2024.
    - Toggle between viewing loan counts and loan balances.
+![Dashboard Image 1](https://github.com/lameesalsheikh/PowerBI-Projects/blob/main/file-RAqUE8D1UYairCw1Ghk4gatC.png)
 
 2. **Product Type Distribution**
    - Pie chart showing the distribution of loans by product type.
