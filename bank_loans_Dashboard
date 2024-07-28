@@ -10,7 +10,7 @@ This Power BI dashboard provides an in-depth analysis of loans processed by the 
    - Displays the total number and balance of loans processed in 2023.
    - Toggle between viewing loan counts and loan balances.
 
-![Main Dashboard Image 1](main/main_balance.png)
+![Main Dashboard Image 1](https://github.com/lameesalsheikh/PowerBI-Projects/blob/main/main_balance.png)
 
 2. **Product Type Distribution**
    - Pie chart showing the distribution of loans by product type.
@@ -28,7 +28,7 @@ This Power BI dashboard provides an in-depth analysis of loans processed by the 
    - Line chart showing the monthly variance in the number of loans and loan balances.
    - Tracks the performance and trends of loan processing throughout the year.
 
-![Main Dashboard Image 2](Project2/file-vFbkEITkDica9X9vcQc2wxrV.png)
+![Main Dashboard Image 2](https://github.com/lameesalsheikh/PowerBI-Projects/blob/main/main_count.png)
 
 #### Consumer, Housing, and Cars Pages
 
@@ -40,7 +40,7 @@ This Power BI dashboard provides an in-depth analysis of loans processed by the 
    - Breaks down the product types into sub-products for a more granular analysis.
    - E.g., Consumer loans can be further divided into Personal Loans, Credit Cards, etc.
 
-![Product-Specific Dashboard Image](Project2/file-WzpLITMmbC4AzNkqGU1dTCSz.png)
+![Product-Specific Dashboard Image](https://github.com/lameesalsheikh/PowerBI-Projects/blob/main/consumer.png)
 
 #### Committees and Areas
 
