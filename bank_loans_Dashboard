@@ -1,0 +1,76 @@
+### Project2:  Bank Loans Dashboard 2023
+
+This Power BI dashboard provides an in-depth analysis of loans processed by the Bank's Head Office (HO) group in 2023. The dashboard includes various visualizations and data distributions by product type, decision type, geographical areas, committees, and employees.
+
+### Dashboard Overview
+
+#### Main Page
+
+1. **Total Loans (Count and Balance)**
+   - Displays the total number and balance of loans processed in 2023.
+   - Toggle between viewing loan counts and loan balances.
+
+![Main Dashboard Image 1](Project2/file-uvchaYWWfOQD2FzzNh0J2VpP.png)
+
+2. **Product Type Distribution**
+   - Pie chart showing the distribution of loans by product type.
+   - Categories include different types of loans such as Cars, Housing, and Consumer loans.
+
+3. **Decision Type Distribution**
+   - Bar chart showing the distribution of loans by decision type (Approved, Denied, Under Process).
+   - Highlights the approval rates and trends for different loan products.
+
+4. **Geographical Distribution (Areas)**
+   - Horizontal bar chart showing the distribution of loans across various geographical areas.
+   - Provides insights into the regions with the highest and lowest loan distributions.
+
+5. **Variance per Month**
+   - Line chart showing the monthly variance in the number of loans and loan balances.
+   - Tracks the performance and trends of loan processing throughout the year.
+
+![Main Dashboard Image 2](Project2/file-vFbkEITkDica9X9vcQc2wxrV.png)
+
+#### Consumer, Housing, and Cars Pages
+
+1. **Product-Specific Analysis**
+   - Each page focuses on a specific product category (Consumer, Housing, Cars).
+   - Provides detailed insights into the distribution and performance of loans within each category.
+
+2. **Product Sub-Types**
+   - Breaks down the product types into sub-products for a more granular analysis.
+   - E.g., Consumer loans can be further divided into Personal Loans, Credit Cards, etc.
+
+![Product-Specific Dashboard Image](Project2/file-WzpLITMmbC4AzNkqGU1dTCSz.png)
+
+#### Committees and Areas
+
+1. **Approval Committees**
+   - Bar chart showing the distribution of loan approvals by different committees.
+   - Displays the total balance and number of loans approved by each committee.
+
+2. **Monthly Distribution by Head Unit**
+   - Stacked bar chart showing the distribution of workload by head unit across each month.
+   - Provides insights into the performance and workload distribution among different units.
+
+3. **Committees by Rejection**
+   - Bar chart showing the number of loans rejected by each committee.
+   - Includes a line chart overlay showing the rejection rate percentage.
+
+4. **Loan Status by Employee**
+   - Flow chart showing the distribution of loan statuses by individual employees.
+   - Provides detailed insights into each employee's performance in terms of loan processing.
+
+### Key Features
+
+- **Interactivity:** Users can switch between viewing data by loan balances and loan counts using a toggle button.
+- **Comparative Analysis:** The variance per month chart allows users to compare loan performance across different months.
+- **Detailed Breakdown:** Separate pages for overall loan distribution and workload distribution provide a detailed breakdown of the data, making it easier to analyze specific aspects of loan processing.
+- **Product and Sub-Product Analysis:** Offers a detailed view of different loan products and their sub-products, helping in understanding the nuances of each loan category.
+
+### Usage
+
+This dashboard is designed to provide insights into the performance and distribution of loans processed by the Bank's HO group. It helps identify trends, understand the distribution of loan decisions, and analyze the workload among employees and head units.
+
+### Conclusion
+
+By using this dashboard, stakeholders can make informed decisions based on the comprehensive data analysis provided. The visualizations help in quickly identifying key trends and areas that may need attention, ensuring efficient management of loan processing for the Bank in 2023.
