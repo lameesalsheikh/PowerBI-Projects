@@ -10,7 +10,7 @@ This Power BI dashboard provides an in-depth analysis of loans processed by the 
    - Displays the total number and balance of loans processed in 2023.
    - Toggle between viewing loan counts and loan balances.
 
-![Main Dashboard Image 1](Project2/file-uvchaYWWfOQD2FzzNh0J2VpP.png)
+![Main Dashboard Image 1](main/main_balance.png)
 
 2. **Product Type Distribution**
    - Pie chart showing the distribution of loans by product type.
